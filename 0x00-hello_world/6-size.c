@@ -1,11 +1,9 @@
 #include <stdio.h>
-
 /**
  * main - main function
  *
  * Return: 0 on Success
  */
-
 int main(void)
 {
        char a;
